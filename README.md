@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/thesumanyadav55" target="blank"><img src="https://img.shields.io/twitter/follow/thesumanyadav55?logo=twitter&style=for-the-badge" alt="thesumanyadav55" /></a> </p>
 
-- 🔭 I’m currently working on **Wordpress Development**
+- 🔭 I’m currently working on Wordpress Development
 
-- 👯 I’m looking to collaborate on **New Projects**
+- 👯 I’m looking to collaborate on New Projects
 
 - 👨‍💻 All of my projects are available at [https://thesumanyadav.com](https://thesumanyadav.com)
 
-- 💬 Ask me about **Android,Flutter,Wordpress Development,UI/UX Design**
+- 💬 Ask me about Android,Flutter,Wordpress Development,UI/UX Design
 
-- 📫 How to reach me **thesumanyadav55@gmail.com**
+- 📫 How to reach me thesumanyadav55@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
